@@ -264,13 +264,18 @@ a:focus {
 
 .content-section {
     padding-top: 100px;
+    
 }
 
-.download-section {
+.contact-section {
+    
     width: 100%;
-    padding: 50px 0;
-    color: #fff;
-    background: url(/img/cov.jpg) no-repeat center center scroll;
+    padding: 150px 0;
+    color: whitesmoke;
+   text-shadow: 0 0 3px #000;
+  -moz-text-shadow: 0 0 2px #000;
+  -webkit-text-shadow: 0 0 2px #000;
+    background: url(/img/sunset.jpg) no-repeat center center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
