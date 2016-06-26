@@ -276,7 +276,7 @@ a:focus {
    text-shadow: 0 0 3px #000;
   -moz-text-shadow: 0 0 2px #000;
   -webkit-text-shadow: 0 0 2px #000;
-    background: url("https://github.com/PavlikSimon/PersonalWeb/blob/gh-pages/img/sunset.jpg") no-repeat center center scroll;
+    background: url("https://github.com/PavlikSimon/PersonalWeb/blob/gh-pages/img/sunset.jpg?raw=true") no-repeat center center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
