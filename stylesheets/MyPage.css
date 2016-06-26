@@ -153,7 +153,7 @@ a:focus {
   -moz-text-shadow: 0 0 2px #000;
   -webkit-text-shadow: 0 0 2px #000;
 
-    background: url("stylesheets/Website.png") no-repeat bottom center scroll;
+    background: url("https://github.com/PavlikSimon/PersonalWeb/blob/gh-pages/img/Website.png?raw=true") no-repeat bottom center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
